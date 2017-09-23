@@ -1,0 +1,6 @@
+
+THOMPSON_PATH=$HOME/projects/Thompson/thompson
+# THOMPSON_PATH=/home/scratch/kkandasa/Thompson/thompson
+PATH=$PATH:$THOMPSON_PATH
+export PYTHONPATH=$THOMPSON_PATH
+
