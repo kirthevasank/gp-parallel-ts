@@ -308,3 +308,4 @@ class RealWorkerManager(WorkerManager):
   def close_all_jobs(self):
     """ Closes all jobs. """
     pass
+
