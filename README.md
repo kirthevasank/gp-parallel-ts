@@ -38,8 +38,7 @@ If you use any part of this code in your work, please cite our
 ```bibtex
 @article{kandasamy2017asynchronous,
   title={Asynchronous Parallel Bayesian Optimisation via Thompson Sampling},
-  author={Kandasamy, Kirthevasan and Krishnamurthy, Akshay and Schneider, Jeff and Poczos,
-Barnabas},
+  author={Kandasamy, Kirthevasan and Krishnamurthy, Akshay and Schneider, Jeff and Poczos, Barnabas},
   journal={arXiv preprint arXiv:1705.09236},
   year={2017}
 }
